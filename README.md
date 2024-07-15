@@ -27,7 +27,7 @@ I guess this will work with any wifi module? I prefer to use ESP8266. I will wri
 6. Start the app
 
    ```bash
-    npx expo start
+    npx expo start --tunnel
    ```
 
 In the output, you'll find options to open the app in a
